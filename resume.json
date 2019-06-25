@@ -1,0 +1,21 @@
+{
+	"name": "Bo Yang",
+	"email": "boyang1020@gmail.com",
+	"phone": "(619) 836-4334",
+	"resume": {
+		"skills": ["Javascript", "HTML", "CSS", "React", "Node", "GitHub", "MySQL", "ReactNative", "Redux", "MongoDB", "Jest", "Mocha", "Semantic UI", "google OAuth"],
+		"education": {
+			"college": "University of Nebraska at Lincoln",
+			"degree": "B.S. Electrical Engineering and Math"
+		},
+		"workExperience": {
+			"companyName": "Shaanxi Regional Electric Power Group",
+            "position": "Software and Electrical Engineer"
+		},
+		"projects":
+            {
+			"name": "Emaily",
+			"description": "third party survey tool for app owners to get feedback from users build with React, Node, Redux, MongoDb, Strip API and Sendgrid API "
+        }
+	}
+}
